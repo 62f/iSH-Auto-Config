@@ -1,6 +1,6 @@
 # iSH Auto Setup & Configuration on iOS
 
-## This is an automated configuration script that I created to (re)establish a fully updated, upgraded, and pre-configured penn-testing and development environment. 
+### This is an automated configuration script that I created to (re)establish a fully updated, upgraded, and pre-configured penn-testing and development environment. 
 
 This software was designed on the following device, architecture, software and kernel versions. Use at your own discretion.
 
@@ -38,26 +38,26 @@ Now let’s get cracking. Linux on Unix with a suite to help you keep you from b
 
 ### Tested on The Following Device:
 
-    #### Operating System:
-         iOS-13.2.1
+#### Operating System:
+    iOS-13.2.1
 
-    #### Device:
-         iPad Pro 12’
+#### Device:
+    iPad Pro 12’
 
-    #### Source:
-         TestFlight 
+#### Source:
+    TestFlight 
 
-    #### App Version:
-         iSH v1.0
+#### App Version:
+    iSH v1.0
 
-    #### Kernel:
-         Alpine Linux 3.10 
+#### Kernel:
+    Alpine Linux 3.10 
 
-    #### Virtualized CPU Architecture:
-         x86 ARM
+#### Virtualized CPU Architecture:
+    x86 ARM
 
-    #### Device Architecture:
-         x64 ARM
+#### Device Architecture:
+    x64 ARM
 
 ### Installation: 
 
