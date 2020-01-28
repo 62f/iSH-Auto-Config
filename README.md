@@ -1,4 +1,4 @@
-iSH Auto Setup & Configuration on iOS
+#iSH Auto Setup & Configuration on iOS
 
 This is an automated configuration script that I created to (re)establish a fully updated, upgraded, and pre-configured penn-testing and development environment. 
 
@@ -8,35 +8,35 @@ It is important to acknowledge that we (participants of this team) nor “I”, 
 
 Now let’s get cracking. Linux on Unix with a suite to help you keep you from boredom in the late nights at home when you don’t feel like leaving the couch and your phone is there to comfort you.
 
-Application:
+#Application:
     https://itunes.apple.com/us/app/testflight/id899247664?mt=8
 
-App Location:
+#App Location:
     https://testflight.apple.com/join/97i7KM8O
 
-iSH Website:
+#iSH Website:
     https://ish.app
 
-Genre:
+#Genre:
     Terminal Emulator 
 
-Developer:
+#Developer:
     Theodore Dubois
 
-Developer Email:
+#Developer Email:
     tdlodt@icloud.com
 
-Requires:
+#Requires:
     iOS 11 or later
     Apple TestFlight App:
         https://apps.apple.com/us/app/testflight/id899247664
 
-Compatibility:
+#Compatibility:
     iPhone 5 or later
     iPad Air or later
     iPod Touch
 
-Developed For The Following:
+#Developed For The Following:
 
     Operating System:
         iOS-13.2.1
