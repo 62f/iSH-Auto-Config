@@ -1,3 +1,4 @@
+#!/bin/ash
 echo http://dl-cdn.alpinelinux.org/alpine/edge/community >> /etc/apk/repositories && \
 echo http://dl-cdn.alpinelinux.org/alpine/v3.10/main >> /etc/apk/repositories && \
 echo http://dl-cdn.alpinelinux.org/alpine/v3.10/community >> /etc/apk/repositories && \ 
