@@ -1,4 +1,4 @@
-#iSH Auto Setup & Configuration on iOS
+# iSH Auto Setup & Configuration on iOS
 
 This is an automated configuration script that I created to (re)establish a fully updated, upgraded, and pre-configured penn-testing and development environment. 
 
