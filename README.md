@@ -1,4 +1,4 @@
-[logo]: https://ish.app/assets/icon.png "iSH"
+![iSH](https://ish.app/assets/icon.png "iSH")
 
 # iSH Auto Setup & Configuration on iOS
 
