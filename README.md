@@ -1,37 +1,37 @@
 # iSH Auto Setup & Configuration on iOS
 
-### This is an automated configuration script that I created to (re)establish a fully updated, upgraded, and pre-configured penn-testing and development environment. 
+#### This is an automated configuration script that I created to (re)establish a fully updated, upgraded, and pre-configured penn-testing and development environment. 
 
 This software was designed on the following device, architecture, software and kernel versions. Use at your own discretion.
 
-It is important to acknowledge that we (participants of this team) nor “I”, (it’s creator) support, approve, condone, or participate in unauthorized exploitation of any property without proper authority to do so. These tools are designed for network security professionals to be used in accordance to the law and are not responsible for any  unlawful actions or unintended use that is beyond the intended use of the software or prohibited within the legal boundaries of the licensing agreement.
+##### It is important to acknowledge that we (participants of this team) nor “I”, (it’s creator) support, approve, condone, or participate in unauthorized exploitation of any property without proper authority to do so. These tools are designed for network security professionals to be used in accordance to the law and are not responsible for any  unlawful actions or unintended use that is beyond the intended use of the software or prohibited within the legal boundaries of the licensing agreement.
 
-Now let’s get cracking. Linux on Unix with a suite to help you keep you from boredom in the late nights at home when you don’t feel like leaving the couch and your phone is there to comfort you.
+### Now let’s get cracking. 
 
-### Application:
+#### Application:
     https://itunes.apple.com/us/app/testflight/id899247664?mt=8
 
-### App Location:
+#### App Location:
     https://testflight.apple.com/join/97i7KM8O
 
-### iSH Website:
+#### iSH Website:
     https://ish.app
 
-### Genre:
+#### Genre:
     Terminal Emulator 
 
-### Developer:
+#### Developer:
     Theodore Dubois
 
-### Developer Email:
+#### Developer Email:
     tdlodt@icloud.com
 
-### Requires:
+#### Requires:
     iOS 11 or later
     Apple TestFlight App:
         https://apps.apple.com/us/app/testflight/id899247664
 
-### Compatibility:
+#### Compatibility:
     iPhone 5 or later
     iPad Air or later
     iPod Touch
@@ -63,14 +63,14 @@ Now let’s get cracking. Linux on Unix with a suite to help you keep you from b
 
 Open iSH on your iOS device and select settings. Select the option to turn on “Disable Screen Dimming”
 
-### Clone this repo:
+#### Clone this repo:
 
     git clone https://github.com/ProjectZeroDays/iSH.app-Automated-Setup-and-Configuration-Alpine-Linux-for-iOS.git
 
-### Make Script Executable:
+#### Make Script Executable:
 
     chmod +x ish-autoconfig.sh
 
-### Run The Script:
+#### Run The Script:
 
     sh ish-autoconfig.sh
