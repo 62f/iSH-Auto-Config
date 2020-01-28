@@ -62,3 +62,15 @@ Developed For The Following:
 Installation: 
 
 Open iSH on your iOS device and select settings. Select the option to turn on “Disable Screen Dimming”
+
+Clone this repo:
+
+    git clone https://github.com/ProjectZeroDays/iSH.app-Automated-Setup-and-Configuration-Alpine-Linux-for-iOS.git
+
+Make Script Executable:
+
+    chmod +x ish-autoconfig.sh
+
+Run The Script:
+
+    sh ish-autoconfig.sh
