@@ -1,6 +1,6 @@
-# iSH.app-Automated-Setup-and-Configuration-Alpine-Linux-for-iOS
+iSH Auto Setup & Configuration on iOS
 
-An automated configuration script that I created to (re)establish a fully updated, upgraded, and pre-configured penn-testing and development environment. 
+This is an automated configuration script that I created to (re)establish a fully updated, upgraded, and pre-configured penn-testing and development environment. 
 
 This software was designed on the following device, architecture, software and kernel versions. Use at your own discretion.
 
