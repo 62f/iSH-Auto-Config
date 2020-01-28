@@ -30,8 +30,7 @@ Now let’s get cracking...
 
 #### Requires:
     iOS 11 or later
-    Apple TestFlight App:
-        https://apps.apple.com/us/app/testflight/id899247664
+    [Apple TestFlight App](https://apps.apple.com/us/app/testflight/id899247664)
 
 #### Compatibility:
     iPhone 5 or later
