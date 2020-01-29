@@ -59,20 +59,15 @@ Now let’s get cracking...
     iPad Air or later
     iPod Touch
 
-### Tested on The Following Device:
-
-#### Operating System:
-    iOS-13.2.1
-
-#### Device:
+### Tested on The Following Devices:
     iPad Pro 12.9 Pro (iOS 12.1.1 Jailbroken With Root)
     iPhone XS (iOS 13.2.1 Non-Jail Broken With Root)
     iPhone 7 Plus (iOS 13.3 Non-Jail Broken With Root)
 
-#### Source:
+#### App Source:
     TestFlight 
 
-#### App Version:
+#### App Version Installed:
     iSH v1.0
 
 #### Kernel:
@@ -81,7 +76,7 @@ Now let’s get cracking...
 #### Virtualized CPU Architecture:
     x86 ARM
 
-#### Device Architecture:
+#### Actual Device Architecture:
     x64 ARM
 
 ### Installation: 
