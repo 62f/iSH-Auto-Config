@@ -22,6 +22,9 @@
     cmake \
     curl \
     cython \
-    daq-sfbpf \
+    daq-sfbpf \ 
+    dpkg \
+    dpkg-doc \
+    dpkg-dev \
     db --allow-untrusted && \
 sh add-apks2.sh
