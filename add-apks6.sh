@@ -26,7 +26,10 @@ apk add \
     wget \
     wireless-tools \
     wireshark-common \
+    x11vnc \
     xpat \
+    xterm \
+    xvfb \
     xz-libs \
     yaml \
     yaml-dev \
