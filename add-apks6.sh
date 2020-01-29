@@ -5,6 +5,7 @@ apk add \
     python3-dev \
     readline \
     readline-dev \
+    recon-ng \
     rlwrap \
     ruby \
     ruby-bigdecimal \
