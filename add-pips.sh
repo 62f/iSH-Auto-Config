@@ -6,4 +6,4 @@ pipx install scikit-fuzzy && \
 pipx install dnspython3 && \
 pipx install commix && \
 pipx install ethtools && \
-sh other-tools.sh
+sh pentesting-tools.sh
