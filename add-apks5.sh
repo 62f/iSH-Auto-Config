@@ -28,6 +28,5 @@ apk add \
     postgresql-dev \
     postgresql-libs \
     py-pip \
-    py-pip3 \
     python2 --allow-untrusted && \
 sh add-apks6.sh
