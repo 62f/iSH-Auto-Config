@@ -25,6 +25,21 @@ Now let’s get cracking...
 #### iSH Wiki:
     https://github.com/tbodt/ish.wiki.git
 
+#### iSH Twitter:
+    https://twitter.com/iSH_app
+
+#### iSH Reddit:
+    https://www.reddit.com/r/ish
+
+#### iSH Discord:
+    https://discord.gg/SndDh5y
+
+#### iSH Patreon:
+    https://patreon.com/tbodt
+
+#### iSH Bug Reports & Feedback:
+    https://github.com/tbodt/ish/issues
+
 #### Genre:
     Terminal Emulator 
 
