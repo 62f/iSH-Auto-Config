@@ -1,9 +1,10 @@
-!#bin/ash
+#!bin/ash
 # Installs additional tools using Pip
-pip install brew && \
-pipx install scapy && \
-pipx install scikit-fuzzy && \
-pipx install dnspython3 && \
-pipx install commix && \
-pipx install ethtools && \
+Python3 -m pip install brew && \
+Python3 -m pip install scapy && \
+Python3 -m pip install scikit-fuzzy && \
+Python3 -m pip install dnspython3 && \
+Python3 -m pip install commix && \
+Python3 -m pip install ethtools && \
+python3 -m pip install numpy && \
 sh pentesting-tools.sh
