@@ -17,6 +17,7 @@ apk add \
     gmp \
     gmp-dev \
     gnutls \
+    go \
     grep \
     hostapd \
     http-parser \
