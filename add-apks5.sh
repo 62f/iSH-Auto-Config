@@ -1,4 +1,5 @@
 #!/bin/ash
+# Adds More APKs
 apk add \
     ncurses-terminfo-base \
     net-tools\
