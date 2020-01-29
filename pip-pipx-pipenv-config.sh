@@ -6,4 +6,6 @@ pipx completions && \
 git clone https://github.com/pypa/pipenv.git && \
 cd pipenv && \
 python3 setup.py install && \
-sh add-pips.sh
+clear && \
+fish && \
+sh add-pips.sh 
