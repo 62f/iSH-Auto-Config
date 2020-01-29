@@ -1,4 +1,5 @@
 #!bin/ash
+# Makes .sh scripts executable
 chmod +x add-apk-sources.sh
 chmod +x add-apks.sh && \
 chmod +x add-apks2.sh && \
