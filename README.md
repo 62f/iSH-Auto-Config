@@ -19,6 +19,12 @@ Now let’s get cracking...
 #### iSH Website:
     https://ish.app
 
+#### iSH Github:
+    https://github.com/tbodt/ish
+
+#### iSH Wiki:
+    https://github.com/tbodt/ish.wiki.git
+
 #### Genre:
     Terminal Emulator 
 
