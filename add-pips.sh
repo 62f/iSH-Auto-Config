@@ -1,7 +1,7 @@
 !#bin/ash
 # Installs additional tools using Pip
 pip install brew && \
-pipx install eggshell && \
+pipx install scapy && \
 pipx install scikit-fuzzy && \
 pipx install dnspython3 && \
 pipx install commix && \
