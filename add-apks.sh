@@ -1,6 +1,5 @@
-add-apks.sh
 #!/bin/ash
-    apk update && \
+    apk upgrade && \
     apk add \
     aircrack-ng \
     alpine-baselayout \
