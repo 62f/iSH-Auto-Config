@@ -1,0 +1,33 @@
+#!/bin/ash
+apk add \
+    ncurses-terminfo-base \
+    net-tools\
+    nettle \
+    nghttp2-libs \
+    nginx \
+    nikto \
+    nmap \
+    nodejs \
+    npm \
+    openssl \
+    openssl-dev \
+    p11-kit \
+    pciutils \
+    pciutils-libs \
+    pcre \
+    pcre2 \
+    perl \
+    perl-error \
+    perl-git \
+    php7 \
+    php7-common \
+    pixiewps \
+    pkgconf \
+    postgresql \
+    postgresql-client \
+    postgresql-dev \
+    postgresql-libs \
+    py-pip \
+    py-pip3 \
+    python2 --allow-untrusted && \
+sh add-apks6.sh
