@@ -68,3 +68,17 @@ Open iSH on your iOS device and select settings. Select the option to turn on â€
 #### Clone this repo:
 
     git clone https://github.com/ProjectZeroDays/iSH-Auto-Setup-Configuration.git
+
+#### Change into the https://github.com/ProjectZeroDays/iSH-Auto-Setup-Configuration Directory:
+
+    cd https://github.com/ProjectZeroDays/iSH-Auto-Setup-Configuration
+
+#### Make install.sh Executable:
+
+    chmod +x install.sh
+
+#### Run install.sh:
+
+    sh install.sh
+
+#### Enjoy! Please let me know what I may add or contribute!
