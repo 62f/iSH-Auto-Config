@@ -65,7 +65,9 @@ Now let’s get cracking...
     iOS-13.2.1
 
 #### Device:
-    iPad Pro 12’
+    iPad Pro 12.9 Pro (iOS 12.1.1 Jailbroken With Root)
+    iPhone XS (iOS 13.2.1 Non-Jail Broken With Root)
+    iPhone 7 Plus (iOS 13.3 Non-Jail Broken With Root)
 
 #### Source:
     TestFlight 
