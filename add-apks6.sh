@@ -32,5 +32,6 @@ apk add \
     yaml-dev \
     yersinia \
     zlib \
+    py-pip3 \
     zlib-dev --allow-untrusted && \
 sh pip-pipx-config.sh
