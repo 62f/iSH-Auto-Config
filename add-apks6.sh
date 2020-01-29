@@ -24,6 +24,7 @@ apk add \
     ssl_client \
     subversion \
     subversion-libs \
+    tree \
     tshark \
     tzdata \
     wget \
