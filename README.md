@@ -11,10 +11,10 @@ Now let’s get cracking...
 ### This script was designed on the following device, architecture, software and kernel versions. Use at your own discretion.
 
 #### Application:
-    https://itunes.apple.com/us/app/testflight/id899247664?mt=8
+    iSH.app
 
 #### App Location:
-    https://testflight.apple.com/join/97i7KM8O
+    https://itunes.apple.com/us/app/testflight/id899247664
 
 #### iSH Website:
     https://ish.app
