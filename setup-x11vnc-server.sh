@@ -1,4 +1,4 @@
-#!bin/ash 
+#!bin/bash 
 
 # Installs x11VNC, xTerm, and Xvfb
 apk add x11vnc xvfb xterm && \
