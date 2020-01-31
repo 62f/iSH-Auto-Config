@@ -6,7 +6,7 @@ apk add x11vnc xvfb xterm && \
 # Starts Background Daemon
 # Allows Persistent Connections, 
 # Even When iSH.app is Not Open  
-cat /dev/location > "/dev/null &" && \
+cat /dev/location > /dev/null &
 
 # Select "While Using App"
 # Select "Always"  
