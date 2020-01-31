@@ -4,9 +4,12 @@
 apk add x11vnc xvfb xterm && \
 
 # Starts Background Daemon
-# This Allows You to Connect App Not Open 
-# Make sure to always accept  
+# Allows Persistent Connections, 
+# Even When iSH.app is Not Open  
 cat /dev/location > "/dev/null &" && \
+
+# Select "While Using App"
+# Select "Always"  
 
 # Starts VNC Server 
 x11vnc -create -noshm -forever
