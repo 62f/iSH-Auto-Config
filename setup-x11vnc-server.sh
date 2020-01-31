@@ -1,5 +1,5 @@
-#!bin/ash
-#
+#!bin/sh
+
 # Installs x11VNC, xTerm, and Xvfb
 apk add x11vnc xvfb xterm && \
 
@@ -26,7 +26,7 @@ x11vnc -create -noshm -forever && \
 # -ssl -stunnel
 # For More Info on SSH Tunneling 
 # http://www.karlrunge.com/x11vnc/#tunnelling   
-x11vnc -rfbauth -usepw -ssl -stunnel ~/.vnc/passwd && \
+x11vnc -rfbauth -usepw -ssl -stunnel "~/.vnc/passwd" &
 
 # Open VNC Viewer
 # Connect to 127.0.0.1:5900
