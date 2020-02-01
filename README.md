@@ -13,8 +13,6 @@ For those of you using the iOS Shortcut I built, the iSH.wiki will be cloned int
 
 Now let’s get cracking...
 
-### This script was designed on the following device, architecture, software and kernel versions. Use at your own discretion.
-
 #### Application:
     iSH.app
 
@@ -64,7 +62,7 @@ Now let’s get cracking...
     iPad Air or later
     iPod Touch
 
-### Tested on The Following Devices:
+### This script was designed on the following device, architecture, software and kernel versions. Use at your own discretion.
     iPad Pro 12.9 Pro (iOS 12.1.1 Jailbroken With Root)
     iPhone XS (iOS 13.2.1 Non-Jail Broken With Root)
     iPhone 7 Plus (iOS 13.3 Non-Jail Broken With Root)
