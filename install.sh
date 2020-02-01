@@ -11,5 +11,5 @@ chmod +x pip-pipx-pipenv-config.sh && \
 chmod +x add-pips.sh
 chmod +x other-tools.sh && \
 chmod +x setup-ssh.sh
-chmod +x setup-xvnc-client.sh && \
+chmod +x setup-x11vnc-server.sh && \
 sh add-apk-sources.sh
