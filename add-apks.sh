@@ -16,7 +16,6 @@
     binutils \
     bison \
     build-base \
-    busybox \
     c-ares \
     ca-certificates \
     ca-certificates-cacert \
@@ -24,9 +23,7 @@
     cmake \
     curl \
     cython \
-    daq-sfbpf \ 
-    dpkg \
-    dpkg-doc \
+    daq-sfbpf \
     dpkg-dev \
     db --allow-untrusted && \
 sh add-apks2.sh
