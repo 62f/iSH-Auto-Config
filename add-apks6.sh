@@ -21,6 +21,7 @@ apk add \
     sqlite \
     sqlite-dev \
     sqlite-libs \
+    sshfs \
     ssl_client \
     subversion \
     subversion-libs \
