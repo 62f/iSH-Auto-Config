@@ -9,6 +9,8 @@
     apr \
     apr-util \
     argon2-libs \
+    atools \
+    archivemount \
     autoconf \
     bash \
     binutils \
