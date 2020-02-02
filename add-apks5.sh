@@ -8,6 +8,8 @@ apk add \
     nginx \
     nikto \
     nmap \
+    nnn \
+    nnn-fish-completion \
     nodejs \
     npm \
     openssl \
