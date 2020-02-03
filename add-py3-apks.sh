@@ -1,5 +1,4 @@
 apk add && \
-    py-numpy \
     py3-allfiles \
     py3-ansi2html \
     py3-ansicolor \
