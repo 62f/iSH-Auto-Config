@@ -1,5 +1,4 @@
-### Adding Py3-Apks 
-(Installation Instructions)
+### Adding Py3-Apks
 
 ##### Install With ‘curl’ Using:
     
