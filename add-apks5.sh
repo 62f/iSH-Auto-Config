@@ -30,6 +30,7 @@ apk add \
     postgresql-client \
     postgresql-dev \
     postgresql-libs \
+    proftpd \
     py-pip \
     python2 --allow-untrusted && \
 sh add-apks6.sh
