@@ -24,6 +24,5 @@
     curl \
     cython \
     daq-sfbpf \
-    dpkg-dev \
     db --allow-untrusted && \
 sh add-apks2.sh
