@@ -1,6 +1,7 @@
 #!/bin/ash
 # Adds More APKs
 apk add \
+    easy_install \
     emacs \
     emacs-nox \
     ethtool \
