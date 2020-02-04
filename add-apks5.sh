@@ -14,7 +14,6 @@ apk add \
     nginx-mod-http-geoip \
     nginx-mod-http-geoip2 \
     nginx-mod-http-headers-more \
-    nginx-mod-http-image-filter \
     nginx-mod-http-js \
     nginx-mod-http-lua \
     nginx-mod-http-lua-upstream \
@@ -25,7 +24,6 @@ apk add \
     nginx-mod-http-shibboleth \
     nginx-mod-http-upload-progress \
     nginx-mod-http-upstream-fair
-    nginx-mod-http-vod \
     nginx-mod-http-xslt-filter \
     nginx-mod-mail \
     nginx-mod-rtmp \
