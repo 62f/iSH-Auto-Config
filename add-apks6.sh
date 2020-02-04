@@ -16,7 +16,6 @@ apk add \
     ruby-libs \
     scanelf \
     serf \
-    setuptools \
     snort \
     sqlite \
     sqlite-dev \
