@@ -14,4 +14,4 @@ chmod +x other-tools.sh && \
 chmod +x setup-ssh.sh && \
 chmod +x add-py3-apks.sh && \
 chmod +x setup-x11vnc-server.sh && \
-sh add-apk-sources.sh
+sh add-apks.sh
