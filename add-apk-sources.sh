@@ -5,5 +5,5 @@ echo "http://dl-cdn.alpinelinux.org/alpine/main" >> /etc/apk/repositories && \
 echo "http://dl-cdn.alpinelinux.org/alpine/community" >> /etc/apk/repositories && \ 
 echo "http://nl.alpinelinux.org/alpine/community" >> /etc/apk/repositories && \
 echo "http://nl.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories && \
-apk update && \
+apk update && \ 
 sh add-apks.sh
