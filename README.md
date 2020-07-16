@@ -74,7 +74,7 @@ Now let’s get cracking...
     iSH v1.0
 
 #### Kernel:
-    Alpine Linux 3.10 
+    Alpine Linux 3.10 (Currently updating for 3.11)
 
 #### Virtualized CPU Architecture:
     x86 ARM
