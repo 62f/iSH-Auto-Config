@@ -1,7 +1,12 @@
 #!bin/bash 
 
+# Installs necessary files when installed by itself
+apk add wget curl git bash && \
+
 # Installs x11VNC, xTerm, and Xvfb
-apk add x11vnc xvfb xterm && \
+apk add x11vnc && \
+apk add xvfb xvfb-run && \
+apk add xterm && \
 
 # Starts Background Daemon
 # Allows Persistent Connections, 
@@ -29,4 +34,5 @@ x11vnc -create -noshm -forever && \
 x11vnc -rfbauth -usepw -ssl -stunnel "~/.vnc/passwd" &
 
 # Open VNC Viewer
-# Connect to 127.0.0.1:5900
+# Connect to 127.0.0.1:5900 or localhost:0 
+
